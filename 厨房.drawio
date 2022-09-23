@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-23T07:17:48.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="zbbN7j077ByZto5_lhHh" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-23T08:07:00.155Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.42" etag="1U_aF1_CF-mNyndlz4vV" version="20.2.4" type="github">
   <diagram id="QhWIDgfeyCkNjNmuqqY5" name="第 1 页">
     <mxGraphModel dx="1220" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,6 +79,9 @@
         </mxCell>
         <mxCell id="j48AWJiiDouA3toRjNVj-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="370" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="j48AWJiiDouA3toRjNVj-21" value="锅盖架子、粘板架子、菜刀" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="650" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
